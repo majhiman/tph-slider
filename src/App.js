@@ -5,8 +5,9 @@ import CitiesSlider from './components/slider.js';
 function App() {
     return (
         <div>
-            < CitiesSlider/>
+            
             <div id="app"></div>
+            < CitiesSlider/>
         </div>
     );
   }

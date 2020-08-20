@@ -102,6 +102,6 @@ class CitiesSlider extends React.Component {
     },
   ];
   
-  export default ReactDOM.render(<CitiesSlider slides={slides} />, document.querySelector('#app'));
-    //export default CitiesSlider;
+  //export default ReactDOM.render(<CitiesSlider slides={slides} />, document.querySelector('#app'));
+    export default CitiesSlider;
   
